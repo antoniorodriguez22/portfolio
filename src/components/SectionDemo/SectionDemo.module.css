@@ -1,0 +1,76 @@
+.SectionDemo { 
+    max-height: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color:gray; 
+    background-size: cover;
+
+}
+
+
+.information {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+}
+
+.description {
+    color: white;
+    font-size: 20px;
+}
+
+.buttonWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.demo {
+
+}
+
+.image{
+    
+}
+
+@media only screen and (min-width: 760px) {
+
+    .SectionDemo { 
+        max-height: 700px;
+        height: 700px;
+        flex-direction: row;
+    }
+    
+    .title{
+        font-size: 70px;
+    }
+
+    .description { 
+        font-size: 30px;
+    }
+
+    .information {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .buttonWrapper {
+        flex-direction: row;
+        margin: 10px 3px;
+    }
+
+}
