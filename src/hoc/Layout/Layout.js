@@ -24,7 +24,7 @@ const Layout = () =>{
                 githubLink="https://github.com/antoniorodriguez22/humanos-venezuela"
                 buttonValue="humanosvenezuela.com"
                 link="https://humanosvenezuela.com"
-                githubButtonValue="View on Github"
+                githubButtonValue="Github upon request"
                 bgColor="#34ebbd"
                 shadow="true"
                 />   
