@@ -9,8 +9,8 @@ const Layout = () =>{
         <div className={classes.Layout}>
             <Section 
                 title="I am Antonio Rodriguez" 
-                description="Born in Venezuela; but currently residing in the USA, exploring the field of Computer Science at the University of 
-                Central Florida. I am passionate about web development in MERN stack; but also, willing to explore other exciting and cutting-edge 
+                description="Exploring the field of Computer Science at the University of Central Florida. I am passionate about web 
+                development in MERN stack and willing to explore other exciting and cutting-edge 
                 technologies. Keep scrolling to learn more about my projects!"
                 githubLink="https://github.com/antoniorodriguez22"
                 githubButtonValue="Github"
